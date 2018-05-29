@@ -6,9 +6,11 @@ So ! this repository will help you find your library's proguard easy .
 
 but it need time to be that completely for find most of proguards here .
 
-You can help to make this repository more and more completely with your commits .
-
 I hope it could be helpful ❤ 
+
+## Contributing
+
+Want to contribute? You are welcome! Help to make this repository more and more completely ❤ 
 
 ## Contact me
 
